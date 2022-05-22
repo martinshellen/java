@@ -1,1 +1,1 @@
-# java
+# Projeto de estudo sobre java.
